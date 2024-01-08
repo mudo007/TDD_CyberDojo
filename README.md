@@ -1,5 +1,5 @@
 # TDD_CyberDojo
-My Typescript TDD training sessions with cyberdojo katas, and other eventual coding sessions while following a live stream.
+My Typescript (initially javascript) TDD training sessions with cyberdojo katas, and other eventual coding sessions while following a live stream.
 
 This is simply a collection of links to my CyberDojo Training sessions as part of my daily TDd and typescript training.
 - fizzbuzz - https://cyber-dojo.org/kata/edit/cucW2F
@@ -10,3 +10,4 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - ABC - https://cyber-dojo.org/kata/edit/G5mDWh
 - Align Columns - https://cyber-dojo.org/kata/edit/NmssyQ
 - tdd tutorial rodrigo branas https://www.youtube.com/live/M46XisdGXJA?si=1a75znFVcJyBQ4Dt - https://cyber-dojo.org/kata/edit/WqsStf
+- Anagrams: https://cyber-dojo.org/kata/edit/WU86EW
