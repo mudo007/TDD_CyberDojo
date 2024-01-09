@@ -1,7 +1,7 @@
 # TDD_CyberDojo
 My Typescript (initially javascript) TDD training sessions with cyberdojo katas, and other eventual coding sessions while following a live stream.
 
-This is simply a collection of links to my CyberDojo Training sessions as part of my daily TDd and typescript training.
+This is simply a collection of links to my CyberDojo Training sessions as part of my daily TDD and Typescript training.
 - fizzbuzz - https://cyber-dojo.org/kata/edit/cucW2F
 - tennis - https://cyber-dojo.org/kata/edit/RKDDn2
 - yatzi - https://cyber-dojo.org/kata/edit/M4FZB0
@@ -9,5 +9,6 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - 12day christmas - https://cyber-dojo.org/kata/edit/Ht2EN8
 - ABC - https://cyber-dojo.org/kata/edit/G5mDWh
 - Align Columns - https://cyber-dojo.org/kata/edit/NmssyQ
-- tdd tutorial rodrigo branas https://www.youtube.com/live/M46XisdGXJA?si=1a75znFVcJyBQ4Dt - https://cyber-dojo.org/kata/edit/WqsStf
-- Anagrams: https://cyber-dojo.org/kata/edit/WU86EW
+- tdd tutorial rodrigo branas -  https://www.youtube.com/live/M46XisdGXJA?si=1a75znFVcJyBQ4Dt - https://cyber-dojo.org/kata/edit/WqsStf
+- Anagrams -  https://cyber-dojo.org/kata/edit/WU86EW
+- Array Shuffle -  https://cyber-dojo.org/kata/edit/KL7Pwr
