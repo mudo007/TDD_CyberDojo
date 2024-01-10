@@ -12,3 +12,4 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - tdd tutorial rodrigo branas -  https://www.youtube.com/live/M46XisdGXJA?si=1a75znFVcJyBQ4Dt - https://cyber-dojo.org/kata/edit/WqsStf
 - Anagrams -  https://cyber-dojo.org/kata/edit/WU86EW
 - Array Shuffle -  https://cyber-dojo.org/kata/edit/KL7Pwr
+- Balanced Parenthesis - https://cyber-dojo.org/kata/edit/W2tj3H
