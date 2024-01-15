@@ -14,5 +14,6 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - Array Shuffle -  https://cyber-dojo.org/kata/edit/KL7Pwr
 - Balanced Parenthesis - https://cyber-dojo.org/kata/edit/W2tj3H
 - Best Shufle - https://cyber-dojo.org/kata/edit/6YS24X -> highly innefficient, must refactor!
-- Best Shufle (refactored) - https://cyber-dojo.org/kata/edit/yU85lm
+- Best Shufle (refactored, sub-optimal scores) - https://cyber-dojo.org/kata/edit/yU85lm
 - Bowling Game - https://cyber-dojo.org/kata/edit/vWptzU
+- Calc Stats - https://cyber-dojo.org/kata/edit/SjZGk7
