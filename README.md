@@ -17,3 +17,4 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - Best Shufle (refactored, sub-optimal scores) - https://cyber-dojo.org/kata/edit/yU85lm
 - Bowling Game - https://cyber-dojo.org/kata/edit/vWptzU
 - Calc Stats - https://cyber-dojo.org/kata/edit/SjZGk7
+- Closest to Zero - https://cyber-dojo.org/kata/edit/jmu6Q7
