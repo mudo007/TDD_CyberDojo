@@ -2,10 +2,12 @@
 My Typescript (initially javascript) TDD training sessions with cyberdojo katas, and other eventual coding sessions while following a live stream.
 
 This is simply a collection of links to my CyberDojo Training sessions as part of my daily TDD and Typescript training.
+Javascript katas:
 - fizzbuzz - https://cyber-dojo.org/kata/edit/cucW2F
 - tennis - https://cyber-dojo.org/kata/edit/RKDDn2
 - yatzi - https://cyber-dojo.org/kata/edit/M4FZB0
 - 100 doors - https://cyber-dojo.org/kata/edit/a3YugX
+Typescript Katas
 - 12day christmas - https://cyber-dojo.org/kata/edit/Ht2EN8
 - ABC - https://cyber-dojo.org/kata/edit/G5mDWh
 - Align Columns - https://cyber-dojo.org/kata/edit/NmssyQ
@@ -18,3 +20,4 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - Bowling Game - https://cyber-dojo.org/kata/edit/vWptzU
 - Calc Stats - https://cyber-dojo.org/kata/edit/SjZGk7
 - Closest to Zero - https://cyber-dojo.org/kata/edit/jmu6Q7
+- Combined Number - https://cyber-dojo.org/kata/edit/LtEtC0
