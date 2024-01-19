@@ -21,3 +21,4 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - Calc Stats - https://cyber-dojo.org/kata/edit/SjZGk7
 - Closest to Zero - https://cyber-dojo.org/kata/edit/jmu6Q7
 - Combined Number - https://cyber-dojo.org/kata/edit/LtEtC0
+- Count Coins - https://cyber-dojo.org/kata/edit/nn5arN
