@@ -23,3 +23,4 @@ This is simply a collection of links to my CyberDojo Training sessions as part o
 - Combined Number - https://cyber-dojo.org/kata/edit/LtEtC0
 - Count Coins - https://cyber-dojo.org/kata/edit/nn5arN
 - Diversion - https://cyber-dojo.org/kata/edit/kacm9r
+- 8 Queens - https://cyber-dojo.org/kata/edit/CfqLSE 
